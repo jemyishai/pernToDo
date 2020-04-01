@@ -1,0 +1,22 @@
+
+https://www.freecodecamp.org/news/learn-the-pern-stack-full-course/ - table of contents
+v helpful review - https://www.youtube.com/watch?v=ldYcgPKEZC8
+
+CRUD OPERATIONS OCCUR WITHIN THE DATABASE
+
+BASIC REVIEW - 
+
+NPM INIT - packages inside our applications - entry point glues the app together
+
+NPM I EXPRESS PG CORS
+Express - server in node js
+Cors - different domain apps to interact with each other (different local hosts)
+Pg connects db with server - enables the Pool command
+
+In index for server, instantiate express, set up a listener, run the server and check the console
+**Npm install nodemon globally - watch a single file, and every time there is a change the file will restart
+
+Middleware requires app.use
+Fullstack app requires data from client, which means data from request.body object: this glorious line:   app.use(express.json())
+
+RESTFUL API - POSGRES
