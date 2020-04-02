@@ -1,5 +1,5 @@
 
-https://www.freecodecamp.org/news/learn-the-pern-stack-full-course/ - table of contents
+https://www.freecodecamp.org/news/learn-the-pern-stack-full-course/ - table of contents - 42:33 / 1:09:54
 v helpful review - https://www.youtube.com/watch?v=ldYcgPKEZC8
 
 CRUD OPERATIONS OCCUR WITHIN THE DATABASE
@@ -20,3 +20,8 @@ Middleware requires app.use
 Fullstack app requires data from client, which means data from request.body object: this glorious line:   app.use(express.json())
 
 RESTFUL API - POSGRES
+
+Ques:
+<Fragment> div in react?
+Hooks?
+RETURN STATEMENTS IN REACT! https://stackoverflow.com/questions/53013437/expected-assignment-or-function-call-no-unused-expressions-reactjs
