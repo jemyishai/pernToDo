@@ -25,3 +25,8 @@ Ques:
 <Fragment> div in react?
 Hooks?
 RETURN STATEMENTS IN REACT! https://stackoverflow.com/questions/53013437/expected-assignment-or-function-call-no-unused-expressions-reactjs
+
+
+Random Notes/HoteKeys:
+ALT-SHIFT-F : prettify in VS code
+Alt/OPTION + COMMAND + I = DEV TOOLS	
